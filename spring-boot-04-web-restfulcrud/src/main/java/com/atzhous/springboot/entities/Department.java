@@ -37,4 +37,8 @@ public class Department {
 	public String abc(){
 		return "0";
 	}
+
+	public int oot(){
+		return 0;
+	}
 }
